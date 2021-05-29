@@ -1,6 +1,6 @@
 // Configure the Google Cloud provider
 provider "google" {
- credentials = file("my-project-1510933246375-ca76d762d849.json")
+ credentials = file("my-project-1510933246375-289d61f3ec3d.json")
  project     = "my-project-1510933246375"
  region      = "us-east1"
 }
